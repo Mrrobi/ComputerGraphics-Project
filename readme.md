@@ -1,5 +1,5 @@
-#Escape From Zombie
-   		     UNITED INTERNATIONAL UNIVERSITY       
+# Escape From Zombie
+   		     # UNITED INTERNATIONAL UNIVERSITY       
      CSI:422- Computer Graphics Laboratory        
      Section: B
 			Kazi Ferdous Mahin 	-	011171009
